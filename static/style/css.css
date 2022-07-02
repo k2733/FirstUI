@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;}
+ul{list-style: none;}
+li{width:100px; float: left;}
+.cl_btoh{clear: both;}
+ 
+#head{width:1600px; height:50px; line-height: 50px; margin:0 auto; background-color: #709670c7;}
+#head a{color:#ffffff;}
+#head ul{line-height: 50px;}
+#head li{text-align: center;}
+ 
+#main{height:800px; width:1600px; background-color: rgb(228, 230, 223); margin: 0 auto; color:#ff0404;
+text-align: center; line-height: 400px;}
+ 
+#footer{height:40px; width:1600px; margin: 0 auto; background-color: #3B666B; color:#ffffff;
+text-align: center; line-height: 40px;}
